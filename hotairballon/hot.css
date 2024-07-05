@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    height:400px;
+    width:400px;
+    border:dotted red;
+    margin:100px;
+
+}
+img{
+    height:380px;
+    width:380px;
+   margin:10px;
+   
+}

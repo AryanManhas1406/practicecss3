@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.top{
+    height:40px;
+    background-color: blueviolet;
+text-align:center;
+color:white
+}
+.center{
+    margin-top: 50px;
+    color:aquamarine
+}
+.bottom {
+    margin:50px ;
+   
+
+}
+a{
+    text-decoration: none;
+    
+}
